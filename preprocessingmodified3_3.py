@@ -147,7 +147,7 @@ def preprocessing(mapidsList,tableName,input):
         conn.close()
         conn1.close()
 if __name__ == "__main__":
-    processingidstable=pd.read_csv("")
+    processingidstable=pd.read_csv("")#present csv location with mapid and table name
     mapidsList=processingidstable['Mapid'].tolist()
     TableNameList=processingidstable['Tablename'].tolist()
     typeLoad='I'
