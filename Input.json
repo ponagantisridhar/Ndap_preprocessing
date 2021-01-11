@@ -1,0 +1,6 @@
+{"geographicalColumnsList" : ["State","District","Block","City","Village","Sub district","From_Time","To_Time","From_Date","To_Date"],
+
+"geographicalColumnschangedList":["DIMX_SN","DIMX_DN","DIMX_BN","DIMX_LN","","","INDT_FT","INDT_TT","INDT_FT","INDT_TT"],
+
+"deleteColumnsList" : ["API_Url","Website_Url","API_Title","Granularity","API_URL","Location_Name"]
+}
